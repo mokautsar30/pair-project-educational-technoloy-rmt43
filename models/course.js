@@ -18,7 +18,7 @@ module.exports = (sequelize, DataTypes) => {
     }
   }
   Course.init({
-    name: DataTypes.STRING,
+    nama: DataTypes.STRING,
     description: DataTypes.STRING,
     duration: DataTypes.INTEGER,
     image: DataTypes.STRING,

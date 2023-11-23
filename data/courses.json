@@ -1,20 +1,20 @@
 [
   {
-    "nama": "Build Creative Website Using HTML5, CSS3, jQuery & Bootstrap",
+    "name": "Build Creative Website Using HTML5, CSS3, jQuery & Bootstrap",
     "description": "First thing first, please View Project Demo at link given in lecture# 2 :) Now, lets discuss what is inside this course.",
     "duration": 84,
     "image": "https://udemy-images.udemy.com/course/750x422/403604_668a_4.jpg",
     "CategoryId": 1
   },
   {
-    "nama": "Node.js, Express & MongoDB Dev to Deployment",
+    "name": "Node.js, Express & MongoDB Dev to Deployment",
     "description": "In this 36 hour course you will learn by example building 2 real world server-side applications from scratch all the way up to deployment with a real domain.",
     "duration": 36,
     "image": "https://images.techhive.com/images/article/2014/09/nodejs-1280x1024-100453402-primary.idge.jpg",
     "CategoryId": 2
   },
   {
-    "nama": "Build Web Apps with Vue JS 2 & Firebase",
+    "name": "Build Web Apps with Vue JS 2 & Firebase",
     "description": "If you're looking to get started building full-stack applications with Vue JS and Firebase, then look no further.",
     "duration": 27,
     "image": "https://d2jq2hx2dbkw6t.cloudfront.net/46/maxresdefault.jpg",
